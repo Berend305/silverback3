@@ -1,0 +1,240 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+body{
+	
+}
+
+
+/*
+achtergrond gegevens
+*/
+.achtergrond{
+			width: 85%;
+			height: 89.5vh;
+			float: right;
+}
+
+
+/*
+groene balk bovenin
+*/
+#div1{
+	background-color: #7c9c77;
+	width: 99.8%;
+	height: 10vh;
+	border: 1.5px solid black;
+}
+
+
+/*
+gele balk rechtsboven
+*/
+#div2{
+	background-color: #f7ff00;
+	height: 10vh;
+	width: 20%;
+	float: right;
+	text-align: center;
+}
+
+
+/*
+grijze balk links
+*/
+#div3{
+	background-color: #50555d;
+	width: 15%;
+	height: 89.5vh;
+	float: left;
+	text-align: left;
+	color: white;
+}
+
+
+/*
+gele strepen in grijze balk links
+*/
+.div4{
+	background-color: #f7ff00;
+	width: 100%;
+	height: 3px;
+	margin-top: 5px;
+}
+
+.div5{
+	background-color: #f7ff00;
+	width: 100%;
+	height: 3px;
+	margin-top: 5px;
+}
+
+
+/*
+silverback juice rechts boven
+*/
+#hansklok{
+	margin-top: 6%;
+}
+
+
+/*
+Producten linker balk
+*/
+.nav{
+	margin-top: 10px;
+	margin-left: 5px;
+}
+
+
+/*
+over ons in linker balk
+*/
+.overons{
+	margin-top:270px;
+	margin-left: 5px;
+}
+
+.over{
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+
+/*
+social media icons
+*/
+.fa{
+  padding: 15px;
+  font-size: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+    border-radius: 50%;
+}
+.fa:hover{
+  opacity: 0.7;
+}
+
+.fa-facebook{
+  background: #3B5998;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.fa-twitter{
+  background: #55ACEE;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.fa-instagram{
+  background: #125688;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+
+/*
+producten balk wel of niet geselecteerd
+*/
+.prselected{
+	text-decoration: none;
+	color: #f7ff00;
+}
+
+.prnon{
+	text-decoration: none;
+	color: white;
+}
+
+
+/*
+logo rechtsboven
+*/
+.logo{
+	width:18%;
+	height: auto;
+	float: right;
+	margin-top: -2%;
+}
+
+
+/*
+icons boven navbar
+*/
+.tekens{
+	width: 3%;
+	height: auto;
+	margin-top: 0.7%;
+	margin-left: 200px;
+}
+
+
+/*
+taal verander icon
+*/
+.taal{
+	width: 3%;
+	height: auto;
+	margin-left: 5px;
+}
+
+
+/*
+extra's
+*/
+.grap{
+	text-decoration: none;
+	color: black;
+}
+
+.monke{
+	width: 37.5%;
+	height: auto;
+	margin-left: 30%;
+}
+
+
+/*
+onduidelijk waar het over gaat
+
+.tekst{
+	position: absolute;
+	left: 15VW;
+}
+
+.side{
+	text-decoration: none;
+	color: white;
+}
+
+#div6 {
+    background-color: #ffefb3;
+    width: 85%;
+    height: 89.5vh;
+    float: right;
+    opacity: 0.70;
+}
+*/
+
+/*
+kleurcodes: grijs: #50555d;
+			div 1 beige: #ffefb3;
+			rood: #8e0b43;
+			groen: #7c9c77;
+			andere beige: #ffdead;
+			tomato red: #ef4026;
+			geel voor rechtsboven vlak: #F7FF00;
+
+*/
+/*
+link.html
+link.css
+*/
